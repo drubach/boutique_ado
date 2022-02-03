@@ -1,3 +1,4 @@
+""" Local views for app build. """
 from django.shortcuts import render
 
 # Create your views here.
